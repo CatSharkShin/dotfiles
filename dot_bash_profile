@@ -1,0 +1,8 @@
+#
+# ~/.bash_profile
+#
+xset s off
+xset -dpms
+xset s noblank
+sh ~/.config/autorun.sh
+[[ -f ~/.bashrc ]] && . ~/.bashrc
