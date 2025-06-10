@@ -1,0 +1,48 @@
+# Default colors
+[colors.primary]
+background = '#1c1c1c'
+foreground = '#f2f4f8'
+
+# Normal colors
+[colors.normal]
+black   = '#282828'
+red     = '#ff1e74'
+green   = '#25be6a'
+yellow  = '#ffd700'
+blue    = '#0088ff'
+magenta = '#6f00ff'
+cyan    = '#33b1ff'
+white   = '#dfdfe0'
+
+# Bright colors
+[colors.bright]
+black   = '#484848'
+red     = '#f16da6'
+green   = '#46c880'
+yellow  = '#ffe245'
+blue    = '#33a0ff'
+magenta = '#b06fff'
+cyan    = '#52bdff'
+white   = '#e4e4e5'
+
+[font]
+size = 14.0
+
+[font.bold]
+family = "GohuFont uni14 Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "GohuFont uni14 Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "GohuFont uni14 Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "GohuFont uni14 Nerd Font Mono"
+style = "Regular"
+
+[window]
+padding = {x=10,y=10}
